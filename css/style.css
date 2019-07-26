@@ -1,0 +1,111 @@
+.container{
+    width:1000px;
+    margin-right: auto;
+    margin-left: auto;
+    height:600px;
+    background: #ffffff;
+}
+.R1
+{height: 25%;box-sizing: border-box;background: white;margin-bottom: 5px;/* border-bottom: 5px solid #FFFF; *//* margin-bottom: 6px; */margin-color: inherit;margin-left:auto; margin-right:auto;}
+
+.R2
+{height: 25%;box-sizing: border-box;margin-bottom: 5px;margin-color: inherit;margin-left:auto;margin-right:auto;padding: 5px;}
+
+.R3
+{height: 25%;box-sizing: border-box;background: white;margin-bottom: 5px;/* border-bottom: 5px solid #FFFF; *//* margin-bottom: 6px; */margin-color: inherit;margin-left:auto; margin-right:auto;}
+
+.R4
+{height: 25%;box-sizing: border-box;background: white;margin-bottom: 5px;/* border-bottom: 5px solid #FFFF; *//* margin-bottom: 6px; */margin-color: inherit;margin-left:auto; margin-right:auto;}
+
+.R1C1{
+    width: 33.33%;
+    height: 100%;
+   
+    box-sizing: border-box;
+    /* margin-right: 6px; */
+    float: left;
+    padding: 5px;
+}
+
+.R1C2{
+    width: 33.33%;
+    height: 100%;
+    box-sizing: border-box;
+    /* margin-right: 6px; */
+    float: left;
+    padding: 5px;
+}
+.R1C3{
+    width: 33.33%;
+    height: 100%;
+    /* background: #3f6d6d; */
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.content{
+    background: #0a0ad8;
+    height: 100%;
+    width: 100%;
+}
+.content2{
+    height:100%;
+    width:100%;
+    background:blue;
+    padding:5px;
+    box-sizing: border-box;
+}
+.content3{
+    background: blue;
+    height: 100%;
+}
+.R3C1{width:50%;
+    height: 100%;
+    float:left;
+   
+    box-sizing: border-box;
+    padding: 5px;
+    
+}
+.R3C2{
+    width:50%;
+    height: 100%;
+    float:left;
+   
+     padding: 5px;
+    box-sizing: border-box;
+    
+}
+
+.R4C1{
+    width:70%;
+    height: 100%;
+    float:left;
+   
+     padding: 5px;
+    box-sizing: border-box;
+    
+}
+.R4C2{
+    width:15%;
+    height: 100%;
+    float:left;
+   
+     padding: 5px;
+    box-sizing: border-box;
+    
+}
+.R4C3{
+    
+    width:15%;
+    height: 100%;
+    float:left;
+   
+     padding: 5px;
+    box-sizing: border-box;
+    
+}
+.content4{
+    background: blue;
+    height: 100%;
+}
